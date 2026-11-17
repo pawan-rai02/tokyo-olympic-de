@@ -1,0 +1,16 @@
+{
+	"name": "tokyo-olympic-adf02",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b7dbcaf4-1344-423a-a74e-24ecd6ecd3d5",
+		"tenantId": "0f4f1d25-ddc7-43d4-ada0-8c0e62dda2f9"
+	}
+}
